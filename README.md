@@ -1,18 +1,12 @@
-### Hi there 👋
 
-<!--
-**aminait/aminait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2> Hello World! </h2>
+   <h3> I'm Amina Ait </h3>
+   <p> <b> Software Developer ✨ Computer Engineer</b> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <a href="mailto:aminait@outlook.com" target="_blank">Mail </a> | <a href="https://amina-ait-portfolio.vercel.app" target="_blank">Portfolio </a> | <a href="https://amina-ait-portfolio.vercel.app/projects" target="_blank">Projects </a> | <a href="https://www.linkedin.com/in/amina-ait/" target="_blank">LinkedIn </a> 
 
-![Metrics](https://metrics.lecoq.io/aminait?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FCasablanca)
+   ![Metrics](github-metrics.svg)
+
+</div>
